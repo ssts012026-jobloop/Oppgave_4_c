@@ -1,0 +1,18 @@
+graph TD
+    A[Start Program] --> B{Meny-valg}
+    B -->|Case 1| C[Søk etter Digimon]
+    B -->|Case 2| E[Vis 10 Tilfeldige]
+    B -->|Case 3| F[Vis Digimon Fakta]
+    B -->|Case 4| D[Avslutt Program]
+    B -->|Default| G[Stupid Baka Melding]
+    
+    C --> H[HentData fra CSV]
+    E --> H[HentData fra CSV]
+    H --> I[Filtrer med LINQ]
+    I --> J[Vis Resultat på Skjerm]
+    J --> B
+    
+    F --> K[Vis 1 tilfeldig fakta]
+    K --> B
+    
+    G --> B
