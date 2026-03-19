@@ -44,4 +44,3 @@ ein selector som finner dataen som trengs
 Laste filen in til ein liste
 
 så skriver programet ut listen
-

@@ -1,0 +1,15 @@
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\Program.AssemblyInfoInputs.cache
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\Program.AssemblyInfo.cs
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\Program.csproj.CoreCompileInputs.cache
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\Program.sourcelink.json
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\bin\Debug\net10.0\Program.exe
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\bin\Debug\net10.0\Program.deps.json
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\bin\Debug\net10.0\Program.runtimeconfig.json
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\bin\Debug\net10.0\Program.dll
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\bin\Debug\net10.0\Program.pdb
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\Program.dll
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\refint\Program.dll
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\Program.pdb
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\Program.genruntimeconfig.cache
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave_4 - MVC og LinQ utforskning\obj\Debug\net10.0\ref\Program.dll
